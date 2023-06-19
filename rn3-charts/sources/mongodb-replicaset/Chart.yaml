@@ -10,4 +10,4 @@ sources:
   - https://github.com/mongodb/mongo
   - https://github.com/percona/mongodb_exporter
 # This chart is deprecated and no longer maintained
-deprecated: true
+#deprecated: true
