@@ -3,12 +3,12 @@ entries:
   consul:
   - apiVersion: v1
     appVersion: 1.5.3
-    created: "2023-06-19T10:20:40.3644843+03:00"
+    created: "2023-06-19T10:27:50.1104819+03:00"
     deprecated: true
     description: Highly available and distributed service discovery and key-value
       store designed with support for the modern data center to make distributed systems
       and configuration easy.
-    digest: 976c39ad305fbc71b98175073e46ad1bf8962ddf58e2385a07b87312c6699cbc
+    digest: 2af855d70a6918611cb5b8676cf8969f89035551ff3346f04a6a959a297b81d8
     home: https://github.com/hashicorp/consul
     icon: https://raw.githubusercontent.com/hashicorp/consul/bce3809dfca37b883828c3715b84143dd71c0f85/website/source/assets/images/favicons/android-chrome-512x512.png
     name: consul
@@ -20,12 +20,12 @@ entries:
   mongodb-replicaset:
   - apiVersion: v1
     appVersion: "3.6"
-    created: "2023-06-19T10:20:40.3708492+03:00"
+    created: "2023-06-19T10:27:50.113481+03:00"
     deprecated: true
     description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
       applications.
-    digest: c21c23ec850eb4add532d4fa2c430da18a2c89cb1e4e45c3b72cdda8d97adf2e
+    digest: 05d147607601feb6be1e558dd0d02181ba3d21ae41c9603bfd626a177721f128
     home: https://github.com/mongodb/mongo
     icon: https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg
     name: mongodb-replicaset
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://github.com/eea/rn3-helm/tree/sotav-dev/mongodb-replicaset-3.17.2.tgz
     version: 3.17.2
-generated: "2023-06-19T10:20:40.3619964+03:00"
+generated: "2023-06-19T10:27:50.1094826+03:00"
