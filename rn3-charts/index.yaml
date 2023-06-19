@@ -5,9 +5,7 @@ entries:
     appVersion: 1.5.3
     created: "2023-06-19T12:14:30.6856397+03:00"
     deprecated: true
-    description: Highly available and distributed service discovery and key-value
-      store designed with support for the modern data center to make distributed systems
-      and configuration easy.
+    description: Highly available and distributed service discovery and key-value store designed with support for the modern data center to make distributed systems and configuration easy.
     digest: 5e77c94305fc71448f331146e13e99da2ae00388957faf154db274754f2bbe02
     home: https://github.com/hashicorp/consul
     icon: https://raw.githubusercontent.com/hashicorp/consul/bce3809dfca37b883828c3715b84143dd71c0f85/website/source/assets/images/favicons/android-chrome-512x512.png
@@ -22,9 +20,7 @@ entries:
     appVersion: 4.2.4
     created: "2023-06-19T12:14:30.6914454+03:00"
     deprecated: true
-    description: DEPRECATED NoSQL document-oriented database that stores JSON-like
-      documents with dynamic schemas, simplifying the integration of data in content-driven
-      applications.
+    description: DEPRECATED NoSQL document-oriented database that stores JSON-like documents with dynamic schemas, simplifying the integration of data in content-driven  applications.
     digest: 1fc5de6ed1bffbcd88a25042e2aa35656ac32cd1ca9885a44f543a4f7c206fca
     home: https://mongodb.org
     icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
@@ -46,9 +42,7 @@ entries:
     appVersion: "3.6"
     created: "2023-06-19T12:14:30.6958677+03:00"
     deprecated: true
-    description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
-      documents with dynamic schemas, simplifying the integration of data in content-driven
-      applications.
+    description: DEPRECATED - NoSQL document-oriented database that stores JSON-like documents with dynamic schemas, simplifying the integration of data in content-driven applications.
     digest: dcf22ac16209ab521c4be9131ad5582f883903598a22cd280d47c09519d7a1f0
     home: https://github.com/mongodb/mongo
     icon: https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg
