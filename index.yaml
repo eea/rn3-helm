@@ -3,7 +3,7 @@ entries:
   consul:
   - apiVersion: v1
     appVersion: 1.5.3
-    created: "2023-06-19T10:27:50.1104819+03:00"
+    created: "2023-06-19T10:34:52.5259138+03:00"
     deprecated: true
     description: Highly available and distributed service discovery and key-value
       store designed with support for the modern data center to make distributed systems
@@ -15,12 +15,12 @@ entries:
     sources:
     - https://github.com/kelseyhightower/consul-on-kubernetes
     urls:
-    - https://github.com/eea/rn3-helm/tree/sotav-dev/consul-3.9.6.tgz
+    - consul-3.9.6.tgz
     version: 3.9.6
   mongodb-replicaset:
   - apiVersion: v1
     appVersion: "3.6"
-    created: "2023-06-19T10:27:50.113481+03:00"
+    created: "2023-06-19T10:34:52.5330027+03:00"
     deprecated: true
     description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
@@ -33,6 +33,6 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://github.com/eea/rn3-helm/tree/sotav-dev/mongodb-replicaset-3.17.2.tgz
+    - mongodb-replicaset-3.17.2.tgz
     version: 3.17.2
-generated: "2023-06-19T10:27:50.1094826+03:00"
+generated: "2023-06-19T10:34:52.5171995+03:00"
