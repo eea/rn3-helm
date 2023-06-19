@@ -11,4 +11,4 @@ sources:
 - https://github.com/graphite-project/docker-graphite-statsd
 maintainers:
 icon: https://graphiteapp.org/img/graphite-logo_color.png
-deprecated: true
+#deprecated: true

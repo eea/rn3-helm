@@ -15,4 +15,4 @@ sources:
 - https://github.com/hyperledger/burrow
 apiVersion: v1
 engine: gotpl
-deprecated: true
+#deprecated: true

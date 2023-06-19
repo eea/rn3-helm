@@ -10,4 +10,4 @@ home: https://github.com/kubernetes/dashboard
 sources:
 - https://github.com/kubernetes/dashboard
 icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
-deprecated: true
+#deprecated: true

@@ -1,7 +1,7 @@
 # This version of the kiam Helm chart is deprecated.
 # All future updates should be instead made to the uSwitch-hosted Helm chart,
 # located at https://github.com/uswitch/kiam/tree/master/helm/kiam.
-deprecated: true
+#deprecated: true
 apiVersion: v1
 name: kiam
 version: 2.5.3

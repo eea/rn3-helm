@@ -7,4 +7,4 @@ home: http://janusgraph.org
 icon: https://raw.githubusercontent.com/JanusGraph/janusgraph/master/janusgraph.png
 sources:
 - https://github.com/JanusGraph/janusgraph
-deprecated: true
+#deprecated: true

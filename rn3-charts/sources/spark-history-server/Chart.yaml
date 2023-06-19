@@ -10,4 +10,4 @@ sources:
 keywords:
 - spark
 - history-server
-deprecated: true
+#deprecated: true

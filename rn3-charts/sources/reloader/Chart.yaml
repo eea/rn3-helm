@@ -4,7 +4,7 @@ description: DEPRECATED - Reloader chart that runs on kubernetes
 version: 1.3.0
 appVersion: "v0.0.41"
 # deprecated in favor of stakater chart repo. see README.md
-deprecated: true
+#deprecated: true
 keywords:
   - Reloader
   - kubernetes

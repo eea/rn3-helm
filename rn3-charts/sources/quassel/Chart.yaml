@@ -5,7 +5,7 @@ name: quassel
 version: 0.2.13
 icon: https://avatars3.githubusercontent.com/u/2965670
 home: https://quassel-irc.org/
-deprecated: true
+#deprecated: true
 sources:
 - https://github.com/quassel/quassel
 - https://github.com/linuxserver/docker-quassel-core

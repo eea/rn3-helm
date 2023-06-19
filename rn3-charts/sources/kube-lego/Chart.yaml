@@ -4,7 +4,7 @@ name: kube-lego
 version: 0.4.2
 appVersion: v0.1.6
 # The kube-lego chart is deprecated and no longer maintained.
-deprecated: true
+#deprecated: true
 keywords:
 - kube-lego
 - letsencrypt

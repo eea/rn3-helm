@@ -13,4 +13,4 @@ home: https://www.coscale.com/
 icon: https://www.coscale.com/hubfs/Logo%20CoScale/CoScale_Logos/new_coscale_logo.png
 sources:
 - https://app.coscale.com/
-deprecated: true
+#deprecated: true

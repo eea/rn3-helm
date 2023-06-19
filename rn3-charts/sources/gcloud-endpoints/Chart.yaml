@@ -2,7 +2,7 @@ name: gcloud-endpoints
 # This chart has been deprecated due to inactivity and failing e2e tests. PR #2149 is an example of this.
 # This Chart has been deprecated according to the process described in PROCESSES.md. Check that file to
 # see how to undeprecate this Chart.
-deprecated: true
+#deprecated: true
 version: 0.1.2
 appVersion: "1"
 description: DEPRECATED Develop, deploy, protect and monitor your APIs with Google Cloud Endpoints.

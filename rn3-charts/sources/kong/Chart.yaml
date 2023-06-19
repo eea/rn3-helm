@@ -3,7 +3,7 @@ description: DEPRECATED The Cloud-Native Ingress and API-management
 engine: gotpl
 home: https://konghq.com/
 icon: https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png
-deprecated: true
+#deprecated: true
 maintainers: []
 name: kong
 sources:

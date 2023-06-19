@@ -14,5 +14,5 @@ icon: https://www.percona.com/sites/all/themes/percona2015/logo.png
 sources:
 - https://github.com/kubernetes/charts
 - https://github.com/docker-library/percona
-deprecated: true
+#deprecated: true
 engine: gotpl

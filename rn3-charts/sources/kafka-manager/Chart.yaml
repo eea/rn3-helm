@@ -12,5 +12,5 @@ keywords:
 - kafka
 - zookeeper
 - kafka-manager
-deprecated: true
+#deprecated: true
 engine: gotpl

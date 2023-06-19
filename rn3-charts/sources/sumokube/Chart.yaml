@@ -9,4 +9,4 @@ keywords:
 - logging
 sources:
 - https://github.com/SumoLogic/sumologic-collector-docker
-deprecated: true
+#deprecated: true

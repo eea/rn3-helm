@@ -10,4 +10,4 @@ keywords:
   - metrics
   - stackdriver
   - monitoring
-deprecated: true
+#deprecated: true

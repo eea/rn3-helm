@@ -14,4 +14,4 @@ home: https://nextcloud.com/
 icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
 sources:
 - https://github.com/nextcloud/docker
-deprecated: true
+#deprecated: true

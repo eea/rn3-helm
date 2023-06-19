@@ -9,4 +9,4 @@ keywords:
 home: https://openiban.com
 sources:
 - https://github.com/fourcube/goiban-service
-deprecated: true
+#deprecated: true

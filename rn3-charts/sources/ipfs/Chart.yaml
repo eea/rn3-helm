@@ -10,4 +10,4 @@ keywords:
 - distributed-web
 sources:
 - https://github.com/ipfs/go-ipfs
-deprecated: true
+#deprecated: true

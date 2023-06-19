@@ -8,4 +8,4 @@ icon: https://github.com/lmenezes/cerebro/blob/master/public/img/logo.png
 sources:
  - https://github.com/lmenezes/cerebro-docker
  - https://github.com/lmenezes/cerebro
-deprecated: true
+#deprecated: true

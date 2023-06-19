@@ -16,4 +16,4 @@ sources:
 - https://github.com/GoogleCloudPlatform/fluent-plugin-detect-exceptions
 - https://github.com/kubernetes/kubernetes/tree/master/cluster/addons/fluentd-elasticsearch/fluentd-es-image
 engine: gotpl
-deprecated: true
+#deprecated: true

@@ -14,4 +14,4 @@ home: https://www.couchbase.com
 icon: https://couchbase-partners.github.io/helm-charts/assets/img/CB_Logomark_220.png
 sources:
 - https://github.com/couchbase/docker/tree/master/enterprise/couchbase-operator/1.0.0
-deprecated: true
+#deprecated: true

@@ -7,4 +7,4 @@ appVersion: 7.4.0
 home: https://www.elastic.co/products/beats/filebeat
 sources:
 - https://www.elastic.co/guide/en/beats/filebeat/current/index.html
-deprecated: true
+#deprecated: true

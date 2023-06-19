@@ -14,4 +14,4 @@ keywords:
   - hubot
   - chatbot
 icon: https://hubot.github.com/assets/images/layout/hubot-avatar@2x.png
-deprecated: true
+#deprecated: true

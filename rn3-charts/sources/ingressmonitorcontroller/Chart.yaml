@@ -10,4 +10,4 @@ home: https://github.com/stakater/IngressMonitorController
 icon: https://raw.githubusercontent.com/stakater/IngressMonitorController/master/assets/web/IMC-round-100px.png
 sources:
 - https://github.com/stakater/IngressMonitorController
-deprecated: true
+#deprecated: true

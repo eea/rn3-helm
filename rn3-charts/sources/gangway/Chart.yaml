@@ -7,4 +7,4 @@ home: https://github.com/heptiolabs/gangway
 sources:
 - https://github.com/heptiolabs/gangway
 engine: gotpl
-deprecated: true
+#deprecated: true

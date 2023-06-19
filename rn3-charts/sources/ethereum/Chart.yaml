@@ -9,5 +9,5 @@ keywords:
 home: https://www.ethereum.org/
 sources:
 - https://github.com/ethereum/go-ethereum
-deprecated: true
+#deprecated: true
 icon: https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png

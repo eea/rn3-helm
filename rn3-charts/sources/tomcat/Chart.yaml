@@ -5,4 +5,4 @@ icon: http://tomcat.apache.org/res/images/tomcat.png
 version: 0.4.3
 appVersion: "7.0"
 home: https://github.com/yahavb
-deprecated: true
+#deprecated: true

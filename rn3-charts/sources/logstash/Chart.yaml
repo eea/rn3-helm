@@ -8,4 +8,4 @@ appVersion: 7.1.1
 sources:
 - https://www.docker.elastic.co
 - https://www.elastic.co/guide/en/logstash/current/index.html
-deprecated: true
+#deprecated: true

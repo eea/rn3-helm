@@ -13,4 +13,4 @@ engine: gotpl
 home: https://www.elastic.co/products/kibana
 # This chart is deprecated and no longer maintained. For details deprecation,
 # including how to un-deprecate a chart see the PROCESSES.md
-deprecated: true
+#deprecated: true

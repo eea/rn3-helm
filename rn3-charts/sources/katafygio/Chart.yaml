@@ -11,6 +11,6 @@ keywords:
 - dump
 - katafygio
 - git
-deprecated: true
+#deprecated: true
 icon: https://raw.githubusercontent.com/bpineau/katafygio/master/assets/logo/480px-katafygio.png
 engine: gotpl

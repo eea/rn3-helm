@@ -7,4 +7,4 @@ home: https://zeppelin.apache.org/
 sources:
 - https://github.com/apache/zeppelin
 icon: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
-deprecated: true
+#deprecated: true

@@ -4,5 +4,5 @@ version: 1.2.3
 appVersion: 4.18.0
 home: https://www.pgadmin.org/
 source: https://github.com/rowanruseler/helm-charts/tree/master/charts/pgadmin4
-deprecated: true
+#deprecated: true
 description: DEPRECATED - moved to new repo, see source for new location

@@ -4,6 +4,6 @@ description: DEPRECATED A Helm chart for aws-iam-authenticator
 name: aws-iam-authenticator
 version: 0.1.5
 home: https://github.com/kubernetes-sigs/aws-iam-authenticator
-deprecated: true
+#deprecated: true
 sources:
   - https://github.com/kubernetes-sigs/aws-iam-authenticator

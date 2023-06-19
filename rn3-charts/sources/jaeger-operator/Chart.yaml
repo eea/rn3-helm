@@ -3,7 +3,7 @@ description: jaeger-operator Helm chart for Kubernetes
 name: jaeger-operator
 version: 2.12.2
 appVersion: 1.15.1
-deprecated: true
+#deprecated: true
 home: https://www.jaegertracing.io/
 icon: https://www.jaegertracing.io/img/jaeger-icon-reverse-color.svg
 source: https://github.com/jaegertracing/jaeger-operator

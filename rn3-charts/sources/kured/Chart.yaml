@@ -10,4 +10,4 @@ sources:
 icon: https://raw.githubusercontent.com/weaveworks/kured/master/img/logo.png
 # The kured chart is deprecated and no longer maintained. For details deprecation,
 # including how to un-deprecate a chart see the PROCESSES.md file.
-deprecated: true
+#deprecated: true

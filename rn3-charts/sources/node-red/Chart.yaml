@@ -11,4 +11,4 @@ icon: https://nodered.org/about/resources/media/node-red-icon-2.png
 sources:
   - https://github.com/node-red/node-red-docker
   - https://github.com/kubernetes/charts/stable/node-red
-deprecated: true
+#deprecated: true

@@ -6,4 +6,4 @@ version: 0.2.3
 home: https://github.com/negz/kuberos
 sources:
   - https://github.com/negz/kuberos
-deprecated: true
+#deprecated: true

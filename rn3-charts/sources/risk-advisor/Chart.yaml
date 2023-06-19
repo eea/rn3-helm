@@ -6,5 +6,5 @@ appVersion: 1.0.0
 home: https://www.riskadvisory.net/
 sources:
 - https://github.com/Prytu/risk-advisor/
-deprecated: true
+#deprecated: true
 icon: https://raw.githubusercontent.com/Prytu/risk-advisor/master/logo.svg

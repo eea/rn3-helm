@@ -15,4 +15,4 @@ icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/
 sources:
   - https://github.com/mailhog/MailHog
 # Chart moved to https://github.com/codecentric/helm-charts
-deprecated: true
+#deprecated: true

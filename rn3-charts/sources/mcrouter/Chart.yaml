@@ -7,5 +7,5 @@ description: DEPRECATED - Mcrouter is a memcached protocol router for scaling me
 sources:
 - https://github.com/facebook/mcrouter
 - https://github.com/jphalip/mcrouter-docker
-deprecated: true
+#deprecated: true
 engine: gotpl

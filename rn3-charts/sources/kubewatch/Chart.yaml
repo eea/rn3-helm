@@ -5,7 +5,7 @@ appVersion: 0.0.4
 home: https://github.com/bitnami-labs/kubewatch
 icon: https://bitnami.com/assets/stacks/kubewatch/img/kubewatch-stack-220x234.png
 # The kubewatch chart is deprecated and no longer maintained. For details deprecation, see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED Kubewatch notifies your slack rooms when changes to your cluster occur
 keywords:
 - kubernetes

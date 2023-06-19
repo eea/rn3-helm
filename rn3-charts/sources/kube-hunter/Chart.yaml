@@ -11,4 +11,4 @@ keywords:
 - security
 sources:
 - https://github.com/aquasecurity/kube-hunter/blob/master/job.yaml
-deprecated: true
+#deprecated: true

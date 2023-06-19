@@ -7,4 +7,4 @@ sources:
 - https://github.com/tensorflow/tensorflow
 - https://www.tensorflow.org/deploy/distributed
 home: https://github.com/helm/charts/tree/master/stable/distributed-tensorflow
-deprecated: true
+#deprecated: true

@@ -8,5 +8,5 @@ keywords:
 - websocket
 - golang
 home: https://github.com/centrifugal/centrifugo
-deprecated: true
+#deprecated: true
 icon: https://avatars3.githubusercontent.com/u/6236442

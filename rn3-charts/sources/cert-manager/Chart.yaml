@@ -17,4 +17,4 @@ maintainers: []
 # This version of the Helm chart is deprecated.
 # All future updates should be instead made to the official cert-manager
 # repository, found at https://github.com/jetstack/cert-manager/tree/master/deploy
-deprecated: true
+#deprecated: true

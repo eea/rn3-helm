@@ -11,5 +11,5 @@ keywords:
 - metrics
 - cadvisor
 - monitoring
-deprecated: true
+#deprecated: true
 engine: gotpl

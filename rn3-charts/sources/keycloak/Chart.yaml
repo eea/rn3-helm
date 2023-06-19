@@ -14,4 +14,4 @@ icon: https://www.keycloak.org/resources/images/keycloak_logo_480x108.png
 sources:
   - https://github.com/jboss-dockerfiles/keycloak
 # Chart moved to https://github.com/codecentric/helm-charts
-deprecated: true
+#deprecated: true

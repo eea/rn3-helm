@@ -5,4 +5,4 @@ name: clamav
 version: 1.0.7
 home: https://www.clamav.net
 icon: https://www.clamav.net/assets/clamav-trademark.png
-deprecated: true
+#deprecated: true

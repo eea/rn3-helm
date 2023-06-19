@@ -7,4 +7,4 @@ home: https://hadoop.apache.org/
 sources:
 - https://github.com/apache/hadoop
 icon: http://hadoop.apache.org/images/hadoop-logo.jpg
-deprecated: true
+#deprecated: true

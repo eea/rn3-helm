@@ -10,4 +10,4 @@ icon: https://github.com/dexidp/dex/raw/master/Documentation/logos/dex-glyph-col
 home: https://github.com/dexidp/dex/
 source:
 - https://github.com/dexidp/dex/
-deprecated: true
+#deprecated: true

@@ -19,4 +19,4 @@ sources:
   - https://github.com/travelaudience/docker-nexus-backup
 # This chart has been deprecated https://github.com/helm/charts/blob/master/PROCESSES.md#deprecating-a-chart
 # It is now maintained at https://github.com/oteemo/charts
-deprecated: true
+#deprecated: true

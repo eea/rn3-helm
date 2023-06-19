@@ -7,4 +7,4 @@ home: https://hub.docker.com/r/microsoft/mssql-server-linux/
 icon: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1I4Dx
 sources:
 - https://hub.docker.com/r/microsoft/mssql-server-linux/
-deprecated: true
+#deprecated: true

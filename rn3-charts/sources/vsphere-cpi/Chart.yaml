@@ -12,4 +12,4 @@ home: https://github.com/kubernetes/cloud-provider-vsphere
 icon: https://raw.githubusercontent.com/kubernetes/cloud-provider-vsphere/master/docs/vmware_logo.png
 sources:
   - https://github.com/kubernetes/cloud-provider-vsphere
-deprecated: true
+#deprecated: true

@@ -7,4 +7,4 @@ home: http://jmeter.apache.org/
 icon: http://jmeter.apache.org/images/logo.svg
 sources:
   - https://github.com/pedrocesar-ti/distributed-jmeter-docker
-deprecated: true
+#deprecated: true

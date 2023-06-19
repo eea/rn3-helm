@@ -15,4 +15,4 @@ sources:
   - https://github.com/Microsoft/OMS-docker
   - https://github.com/Microsoft/OMS-Agent-for-Linux
   - https://github.com/Microsoft/Docker-Provider
-deprecated: true
+#deprecated: true

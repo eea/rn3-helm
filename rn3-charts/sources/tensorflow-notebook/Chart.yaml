@@ -7,4 +7,4 @@ sources:
   - https://github.com/tensorflow/tensorflow
   - https://github.com/jupyter
 home: https://www.tensorflow.org
-deprecated: true
+#deprecated: true

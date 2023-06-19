@@ -13,4 +13,4 @@ home: https://mercure.rocks
 icon: https://mercure.rocks/static/logo.svg
 sources:
 - https://github.com/dunglas/mercure
-deprecated: true
+#deprecated: true

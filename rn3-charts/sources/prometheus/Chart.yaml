@@ -4,7 +4,7 @@ version: 11.12.1
 appVersion: 2.20.1
 # The prometheus chart is deprecated and no longer maintained. For details deprecation,
 # including how to un-deprecate a chart see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED Prometheus is a monitoring system and time series database.
 home: https://prometheus.io/
 icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png

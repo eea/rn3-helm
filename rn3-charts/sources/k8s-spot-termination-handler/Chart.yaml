@@ -9,4 +9,4 @@ keywords:
 home: https://github.com/kube-aws/kube-spot-termination-notice-handler
 sources:
   - https://github.com/kube-aws/kube-spot-termination-notice-handler
-deprecated: true
+#deprecated: true

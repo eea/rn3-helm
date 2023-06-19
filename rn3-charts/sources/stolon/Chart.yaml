@@ -8,5 +8,5 @@ icon: https://i.imgur.com/tIW8sAW.png
 sources:
   - https://github.com/sorintlab/stolon
   - https://github.com/lwolf/stolon-chart
-deprecated: true
+#deprecated: true
 engine: gotpl

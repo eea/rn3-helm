@@ -4,4 +4,4 @@ description: DEPRECATED - A Helm chart for socat-tunneller
 name: socat-tunneller
 version: 0.1.2
 home: http://www.dest-unreach.org/socat/
-deprecated: true
+#deprecated: true

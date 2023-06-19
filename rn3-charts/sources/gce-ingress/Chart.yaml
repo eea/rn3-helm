@@ -8,6 +8,6 @@ keywords:
   - gce
 sources:
   - https://github.com/kubernetes/ingress-gce
-deprecated: true
+#deprecated: true
 engine: gotpl
 home: https://github.com/kubernetes/ingress-gce

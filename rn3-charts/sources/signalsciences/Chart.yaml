@@ -14,4 +14,4 @@ keywords:
 - waf
 sources:
 - https://github.com/signalsciences
-deprecated: true
+#deprecated: true

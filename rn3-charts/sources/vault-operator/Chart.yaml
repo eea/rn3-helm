@@ -7,4 +7,4 @@ home: https://github.com/coreos/vault-operator
 icon: https://s3.amazonaws.com/hashicorp-marketing-web-assets/brand/Vault_VerticalLogo_FullColor.B1xPC0pSax.svg
 sources:
 - https://github.com/coreos/vault-operator
-deprecated: true
+#deprecated: true

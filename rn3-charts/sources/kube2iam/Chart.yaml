@@ -11,5 +11,5 @@ keywords:
 home: https://github.com/jtblin/kube2iam
 sources:
 - https://github.com/jtblin/kube2iam
-deprecated: true
+#deprecated: true
 engine: gotpl

@@ -11,4 +11,4 @@ sources:
 keywords:
 - npm
 - nodejs
-deprecated: true
+#deprecated: true

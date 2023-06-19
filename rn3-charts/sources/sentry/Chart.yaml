@@ -10,4 +10,4 @@ sources:
   - https://github.com/getsentry/sentry
 home: https://sentry.io/
 icon: https://sentry-brand.storage.googleapis.com/sentry-glyph-black.png
-deprecated: true
+#deprecated: true

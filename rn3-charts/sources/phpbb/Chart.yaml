@@ -3,7 +3,7 @@ name: phpbb
 version: 7.0.10
 appVersion: 3.3.0
 # The phpbb chart is deprecated and no longer maintained. For details deprecation, see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED Community forum that supports the notion of users and groups, file attachments, full-text search, notifications and more.
 keywords:
 - phpbb

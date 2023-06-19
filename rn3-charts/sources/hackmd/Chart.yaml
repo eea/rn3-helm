@@ -15,5 +15,5 @@ home: https://hackmd.io
 sources:
 - https://github.com/hackmdio/hackmd
 - https://github.com/hackmdio/docker-hackmd
-deprecated: true
+#deprecated: true
 engine: gotpl

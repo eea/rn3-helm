@@ -10,5 +10,5 @@ keywords:
 home: https://www.weave.works/oss/scope/
 sources:
   - https://github.com/weaveworks/scope
-deprecated: true
+#deprecated: true
 icon: https://avatars1.githubusercontent.com/u/9976052?s=64

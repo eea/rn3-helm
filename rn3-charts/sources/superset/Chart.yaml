@@ -9,4 +9,4 @@ home: https://github.com/apache/incubator-superset
 icon: https://superset.incubator.apache.org/_images/s.png
 sources:
 - https://github.com/apache/incubator-superset
-deprecated: true
+#deprecated: true

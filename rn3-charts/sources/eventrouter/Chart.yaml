@@ -8,4 +8,4 @@ sources:
 - https://github.com/heptiolabs/eventrouter
 keywords:
 - eventrouter
-deprecated: true
+#deprecated: true

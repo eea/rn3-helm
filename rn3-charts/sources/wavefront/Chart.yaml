@@ -2,7 +2,7 @@ apiVersion: v1
 name: wavefront
 # This chart has been moved to the Wavefront maintained Helm repository
 # ref: https://github.com/wavefrontHQ/helm
-deprecated: true
+#deprecated: true
 description: DEPRECATED Wavefront Kubernetes collector
 appVersion: 1.0.3
 version: 1.1.2

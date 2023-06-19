@@ -12,4 +12,4 @@ keywords:
 icon: https://global-uploads.webflow.com/5a218ef7897bf400019e2f16/5a218ef7897bf400019e2f60_logo-graylog.png
 sources:
 - https://www.graylog.org
-deprecated: true
+#deprecated: true

@@ -4,7 +4,7 @@ description: DEPRECATED - The easy, open source way for everyone in your company
 name: metabase
 version: 0.13.2
 appVersion: v0.36.3
-deprecated: true
+#deprecated: true
 home: http://www.metabase.com/
 icon: http://www.metabase.com/images/logo.svg
 sources:

@@ -14,4 +14,4 @@ keywords:
 home: https://www.inbucket.org/
 sources:
   - https://github.com/jhillyerd/inbucket
-deprecated: true
+#deprecated: true

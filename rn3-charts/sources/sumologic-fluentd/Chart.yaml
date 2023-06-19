@@ -11,4 +11,4 @@ icon: https://www.sumologic.com/wp-content/uploads/logo_light-theme.png
 home: https://github.com/SumoLogic/fluentd-kubernetes-sumologic
 sources:
   - https://github.com/SumoLogic/fluentd-kubernetes-sumologic
-deprecated: true
+#deprecated: true

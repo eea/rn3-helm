@@ -17,4 +17,4 @@ home: https://logdna.com
 icon: https://logdna.com/assets/images/logdna_logo_240w.png
 sources:
 - https://github.com/logdna/logdna-agent-v2
-deprecated: true
+#deprecated: true

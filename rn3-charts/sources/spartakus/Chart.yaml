@@ -6,5 +6,5 @@ home: https://www.shdlr.com
 description: DEPRECATED - Collect information about Kubernetes clusters to help improve the project.
 sources:
   - https://github.com/kubernetes-incubator/spartakus
-deprecated: true
+#deprecated: true
 engine: gotpl

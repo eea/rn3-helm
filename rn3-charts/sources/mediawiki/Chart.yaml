@@ -3,7 +3,7 @@ name: mediawiki
 version: 9.1.9
 appVersion: 1.34.0
 # The mediawiki chart is deprecated and no longer maintained. For details deprecation, see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED Extremely powerful, scalable software and a feature-rich wiki implementation that uses PHP to process and display data stored in a database.
 home: http://www.mediawiki.org/
 icon: https://bitnami.com/assets/stacks/mediawiki/img/mediawiki-stack-220x234.png

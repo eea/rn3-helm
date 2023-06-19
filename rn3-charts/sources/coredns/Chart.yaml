@@ -11,4 +11,4 @@ home: https://coredns.io
 icon: https://coredns.io/images/CoreDNS_Colour_Horizontal.png
 sources:
 - https://github.com/coredns/coredns
-deprecated: true
+#deprecated: true

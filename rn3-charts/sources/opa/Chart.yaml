@@ -11,4 +11,4 @@ home: https://www.openpolicyagent.org
 icon: https://raw.githubusercontent.com/open-policy-agent/opa/master/logo/logo.png
 sources:
 - https://github.com/open-policy-agent/opa
-deprecated: true
+#deprecated: true

@@ -13,7 +13,7 @@ keywords:
 - envelope encryption
 - content addressable
 - distributed file storage
-deprecated: true
+#deprecated: true
 sources:
 - https://github.com/monax/hoard
 apiVersion: v1

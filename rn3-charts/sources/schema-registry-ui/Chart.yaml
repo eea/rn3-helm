@@ -11,4 +11,4 @@ keywords:
   - avro
   - schema-registry
 version: 0.4.4
-deprecated: true
+#deprecated: true

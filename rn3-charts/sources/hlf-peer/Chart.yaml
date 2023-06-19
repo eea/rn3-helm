@@ -10,5 +10,5 @@ keywords:
 home: http://hyperledger-fabric.readthedocs.io
 sources:
   - https://github.com/hyperledger/fabric
-deprecated: true
+#deprecated: true
 icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png

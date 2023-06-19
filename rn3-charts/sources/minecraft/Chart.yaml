@@ -10,4 +10,4 @@ keywords:
 sources:
 - https://hub.docker.com/r/itzg/minecraft-server/~/dockerfile/
 - https://github.com/itzg/dockerfiles
-deprecated: true
+#deprecated: true

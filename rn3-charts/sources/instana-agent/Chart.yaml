@@ -3,7 +3,7 @@ appVersion: 1.1
 description: DEPRECATED - Instana Agent for Kubernetes
 home: https://www.instana.com/
 icon: https://instana-management-assets.s3-eu-west-1.amazonaws.com/stan-logo-2020.png
-deprecated: true
+#deprecated: true
 name: instana-agent
 sources:
 - https://github.com/instana/instana-agent-docker

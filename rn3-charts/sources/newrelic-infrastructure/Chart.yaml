@@ -8,7 +8,7 @@ source:
   - https://github.com/kubernetes/kubernetes/tree/master/examples/newrelic-infrastructure
 engine: gotpl
 icon: https://newrelic.com/assets/newrelic/source/NewRelic-logo-square.svg
-deprecated: true
+#deprecated: true
 keywords:
   - infrastructure
   - newrelic

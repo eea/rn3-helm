@@ -7,4 +7,4 @@ sources:
   - https://hub.docker.com/r/lmierzwa/karma/
   - https://github.com/prymitive/karma
 version: 1.7.2
-deprecated: true
+#deprecated: true

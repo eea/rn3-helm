@@ -4,7 +4,7 @@ version: 2.3.0
 appVersion: 2.3.1
 # The couchdb chart is deprecated in favour of https://github.com/apache/couchdb-helm.
 # For details of deprecation, including how to un-deprecate a chart see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED A database featuring seamless multi-master sync, that scales from
   big data to mobile, with an intuitive HTTP/JSON API and designed for
   reliability.

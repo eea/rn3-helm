@@ -7,4 +7,4 @@ sources:
   - https://github.com/uber/horovod
   - https://github.com/uber/horovod/blob/master/docs/docker.md
 home: https://eng.uber.com/horovod/
-deprecated: true
+#deprecated: true

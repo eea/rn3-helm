@@ -1,7 +1,7 @@
 apiVersion: v1
 # This chart is deprecated and moved to https://github.com/appscode/charts. For details deprecation,
 # including how to un-deprecate a chart see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED Kubed by AppsCode - Kubernetes daemon
 name: kubed
 version: 0.3.3

@@ -8,4 +8,4 @@ keywords:
 home: https://github.com/kubernetes-incubator/metrics-server
 sources:
 - https://github.com/kubernetes-incubator/metrics-server
-deprecated: true
+#deprecated: true

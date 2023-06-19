@@ -7,4 +7,4 @@ home: https://github.com/kubernetes-incubator/external-storage/tree/master/aws/e
 sources:
  - https://github.com/kubernetes-incubator/external-storage/tree/master/aws/efs
  - https://github.com/mirror/busybox
-deprecated: true
+#deprecated: true

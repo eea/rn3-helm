@@ -12,6 +12,6 @@ home: https://traefik.io/
 sources:
 - https://github.com/containous/traefik
 - https://github.com/helm/charts/tree/master/stable/traefik
-deprecated: true
+#deprecated: true
 engine: gotpl
 icon: https://docs.traefik.io/assets/img/traefik.logo.png

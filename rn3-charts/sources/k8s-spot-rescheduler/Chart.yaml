@@ -9,4 +9,4 @@ keywords:
 home: https://github.com/pusher/k8s-spot-rescheduler
 sources:
   - https://github.com/pusher/k8s-spot-rescheduler
-deprecated: true
+#deprecated: true

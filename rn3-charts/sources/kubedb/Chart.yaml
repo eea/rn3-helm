@@ -1,7 +1,7 @@
 apiVersion: v1
 # This chart is deprecated and moved to https://github.com/appscode/charts. For details deprecation,
 # including how to un-deprecate a chart see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED KubeDB by AppsCode - Making running production-grade databases easy on Kubernetes
 name: kubedb
 version: 0.1.3

@@ -5,4 +5,4 @@ icon: https://app.rookout.com/static/rookout/img/logo.svg
 name: rookout
 version: 0.1.2
 home: "http://rookout.com/"
-deprecated: true
+#deprecated: true

@@ -8,5 +8,5 @@ home: https://github.com/intel-cloud/cosbench
 sources:
 - https://github.com/intel-cloud/cosbench
 - https://github.com/scality/zenko-cosbench
-deprecated: true
+#deprecated: true
 engine: gotpl

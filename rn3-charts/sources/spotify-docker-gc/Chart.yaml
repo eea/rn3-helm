@@ -6,4 +6,4 @@ appVersion: latest
 description: DEPRECATED - A simple Docker container and image garbage collection script.
 sources:
   - https://github.com/spotify/docker-gc
-deprecated: true
+#deprecated: true

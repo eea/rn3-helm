@@ -13,4 +13,4 @@ icon: https://blog.ubnt.com/wp-content/uploads/2016/10/unifi-app-logo.png
 sources:
   - https://github.com/jacobalberty/unifi-docker
   - https://github.com/helm/charts/tree/master/stable/unifi
-deprecated: true
+#deprecated: true

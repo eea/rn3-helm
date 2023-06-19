@@ -3,7 +3,7 @@ apiVersion: v1
 # about deprecating, including how to un-deprecate a chart see the PROCESSES.md file.
 # The active chart can be found at:
 # https://github.com/signalfx/signalfx-agent/tree/master/deployments/k8s/helm/signalfx-agent
-deprecated: true
+#deprecated: true
 description: DEPRECATED The SignalFx Kubernetes agent
 name: signalfx-agent
 appVersion: 3.6.1

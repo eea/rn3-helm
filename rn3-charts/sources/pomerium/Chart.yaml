@@ -20,4 +20,4 @@ keywords:
 sources:
 - https://github.com/pomerium/pomerium
 engine: gotpl
-deprecated: true
+#deprecated: true

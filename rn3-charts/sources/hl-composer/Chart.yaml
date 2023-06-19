@@ -11,5 +11,5 @@ keywords:
 home: https://hyperledger.github.io/composer
 sources:
   - https://github.com/hyperledger/composer
-deprecated: true
+#deprecated: true
 icon: https://www.hyperledger.org/wp-content/uploads/2018/04/composer-logo.png

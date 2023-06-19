@@ -3,7 +3,7 @@ name: jasperreports
 version: 7.0.11
 appVersion: 7.2.0
 # The jasperreports chart is deprecated and no longer maintained. For details deprecation, see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED The JasperReports server can be used as a stand-alone or embedded reporting
   and BI server that offers web-based reporting, analytic tools and visualization,
   and a dashboard feature for compiling multiple custom views

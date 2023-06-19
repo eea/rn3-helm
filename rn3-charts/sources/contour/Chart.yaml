@@ -8,4 +8,4 @@ keywords:
   - ingress
   - envoy
   - contour
-deprecated: true
+#deprecated: true

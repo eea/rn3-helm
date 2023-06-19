@@ -6,7 +6,7 @@ appVersion: 0.86.1
 description: DEPRECATED A Helm chart for Datawire Ambassador
 name: ambassador
 version: 5.3.2
-deprecated: true
+#deprecated: true
 icon: https://www.getambassador.io/images/logo.png
 home: https://www.getambassador.io/
 sources:

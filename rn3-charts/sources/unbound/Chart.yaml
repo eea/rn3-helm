@@ -8,4 +8,4 @@ sources:
 - http://unbound.nlnetlabs.nl/svn/
 - https://github.com/Markbnj/unbound-docker
 - https://github.com/kubernetes/contrib/tree/master/exec-healthz
-deprecated: true
+#deprecated: true

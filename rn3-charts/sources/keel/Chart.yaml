@@ -13,4 +13,4 @@ sources:
 - https://github.com/keel-hq/keel
 ## Deprecated following https://github.com/helm/charts/blob/master/PROCESSES.md#deprecating-a-chart
 ## Chart is now maintained in https://github.com/buildkiterimusz/charts
-deprecated: true
+#deprecated: true

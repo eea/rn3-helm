@@ -7,4 +7,4 @@ home: https://prestosql.io
 icon: https://prestosql.io/docs/current/_static/presto.png
 sources:
   - https://github.com/prestosql/presto
-deprecated: true
+#deprecated: true

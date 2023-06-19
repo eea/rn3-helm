@@ -3,7 +3,7 @@ name: redmine
 version: 14.1.12
 appVersion: 4.1.0
 # The redmine chart is deprecated and no longer maintained. For details deprecation, see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED A flexible project management web application.
 keywords:
   - redmine

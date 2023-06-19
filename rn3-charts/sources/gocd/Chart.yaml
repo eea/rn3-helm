@@ -16,7 +16,7 @@ keywords:
 - continuous-testing
 sources:
 - https://github.com/gocd/gocd
-deprecated: true
+#deprecated: true
 # NOTE: Deprecated charts can't have maintainers but leaving commented-out for posterity.
 # maintainers:
 # - name: arvindsv

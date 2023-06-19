@@ -14,4 +14,4 @@ sources:
 - https://github.com/buildkite/agent
 ## Deprecated following https://github.com/helm/charts/blob/master/PROCESSES.md#deprecating-a-chart
 ## Chart is now maintained in https://github.com/buildkite/charts
-deprecated: true
+#deprecated: true

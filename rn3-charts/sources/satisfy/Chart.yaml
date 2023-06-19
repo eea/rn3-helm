@@ -10,4 +10,4 @@ sources:
 - https://github.com/ludofleury/satisfy
 - https://github.com/composer/satis
 - https://unit.nginx.org/
-deprecated: true
+#deprecated: true

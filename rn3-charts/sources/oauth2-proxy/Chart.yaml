@@ -11,7 +11,7 @@ keywords:
 - authentication
 - google
 - github
-deprecated: true
+#deprecated: true
 sources:
 - https://github.com/pusher/oauth2_proxy
 engine: gotpl

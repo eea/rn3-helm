@@ -10,5 +10,5 @@ keywords:
   - openldap
 sources:
   - https://github.com/kubernetes/charts
-deprecated: true
+#deprecated: true
 engine: gotpl

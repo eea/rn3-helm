@@ -14,5 +14,5 @@ sources:
 - https://github.com/kubernetes/charts/stable/node-problem-detector
 - https://github.com/kubernetes/node-problem-detector
 - https://kubernetes.io/docs/concepts/architecture/nodes/#condition
-deprecated: true
+#deprecated: true
 engine: gotpl

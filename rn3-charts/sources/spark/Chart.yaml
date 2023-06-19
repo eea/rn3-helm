@@ -8,4 +8,4 @@ icon: http://spark.apache.org/images/spark-logo-trademark.png
 sources:
   - https://github.com/kubernetes/kubernetes/tree/master/examples/spark
   - https://github.com/apache/spark
-deprecated: true
+#deprecated: true

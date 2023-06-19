@@ -3,7 +3,7 @@ name: odoo
 version: 13.0.5
 appVersion: 12.0.20200215
 # The odoo chart is deprecated and no longer maintained. For details deprecation, see the PROCESSES.md file.
-deprecated: true
+#deprecated: true
 description: DEPRECATED A suite of web based open source business apps.
 home: https://www.odoo.com/
 icon: https://bitnami.com/assets/stacks/odoo/img/odoo-stack-110x117.png

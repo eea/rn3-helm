@@ -7,5 +7,5 @@ appVersion: 1.13.5
 sources:
 - https://github.com/dweomer/dockerfiles-nginx-auth-ldap
 - https://github.com/kvspb/nginx-auth-ldap
-deprecated: true
+#deprecated: true
 home: https://github.com/nginxinc/nginx-ldap-auth

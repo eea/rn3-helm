@@ -7,4 +7,4 @@ appVersion: 6.7.0
 home: https://www.elastic.co/products/beats/metricbeat
 sources:
 - https://www.elastic.co/guide/en/beats/metricbeat/current/index.html
-deprecated: true
+#deprecated: true

@@ -3,7 +3,7 @@ appVersion: "v1.0.2"
 home: https://comcast.github.io/kuberhealthy/
 description: DEPRECATED. Please use https://comcast.github.io/kuberhealthy/ instead.
 name: kuberhealthy
-deprecated: true
+#deprecated: true
 version: 1.2.7
 keywords:
 - kuberhealthy

@@ -11,5 +11,5 @@ home: http://memcached.org/
 icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Memcached.svg/1024px-Memcached.svg.png
 sources:
   - https://github.com/docker-library/memcached
-deprecated: true
+#deprecated: true
 engine: gotpl
