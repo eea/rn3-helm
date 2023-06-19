@@ -26,7 +26,6 @@ entries:
       documents with dynamic schemas, simplifying the integration of data in content-driven
       applications.
     digest: 6170725900eec428f05562d06c30f22f033f24f56bf6cc41e02755dd7866e63b
-    home: https://github.com/mongodb/mongo
     icon: https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg
     name: mongodb-replicaset
     sources:
