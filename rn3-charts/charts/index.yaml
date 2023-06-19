@@ -1,9 +1,25 @@
 apiVersion: v1
 entries:
+  consul:
+  - apiVersion: v1
+    appVersion: 1.5.3
+    created: "2023-06-19T15:25:23.2974185+03:00"
+    description: Highly available and distributed service discovery and key-value
+      store designed with support for the modern data center to make distributed systems
+      and configuration easy.
+    digest: 974e858818a0a7a5328a1b5330b6b02e3db8e008b87283e5237773098693247d
+    home: https://github.com/hashicorp/consul
+    icon: https://raw.githubusercontent.com/hashicorp/consul/bce3809dfca37b883828c3715b84143dd71c0f85/website/source/assets/images/favicons/android-chrome-512x512.png
+    name: consul
+    sources:
+    - https://github.com/kelseyhightower/consul-on-kubernetes
+    urls:
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/charts/consul-3.9.6.tgz
+    version: 3.9.6
   mongodb:
   - apiVersion: v1
     appVersion: 4.2.4
-    created: "2023-06-19T15:01:31.8554687+03:00"
+    created: "2023-06-19T15:25:23.2901936+03:00"
     description: DEPRECATED NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -21,12 +37,34 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-mongodb
     urls:
-    - https://github.com/eea/rn3-helm/tree/sotav-dev/charts/mongodb-7.8.10.tgz
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/mongodb-7.8.10.tgz
+    version: 7.8.10
+  - apiVersion: v1
+    appVersion: 4.2.4
+    created: "2023-06-19T15:25:23.304782+03:00"
+    description: DEPRECATED NoSQL document-oriented database that stores JSON-like
+      documents with dynamic schemas, simplifying the integration of data in content-driven
+      applications.
+    digest: 2acbbabe2919819225ce1e98f97ae1db33de70bdb8516ee9b7f98cae72792c1f
+    home: https://mongodb.org
+    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
+    keywords:
+    - mongodb
+    - database
+    - nosql
+    - cluster
+    - replicaset
+    - replication
+    name: mongodb
+    sources:
+    - https://github.com/bitnami/bitnami-docker-mongodb
+    urls:
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/charts/mongodb-7.8.10.tgz
     version: 7.8.10
   mongodb-replicaset:
   - apiVersion: v1
     appVersion: "3.6"
-    created: "2023-06-19T15:01:31.8581402+03:00"
+    created: "2023-06-19T15:25:23.2941716+03:00"
     description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -38,6 +76,22 @@ entries:
     - https://github.com/mongodb/mongo
     - https://github.com/percona/mongodb_exporter
     urls:
-    - https://github.com/eea/rn3-helm/tree/sotav-dev/charts/mongodb-replicaset-3.17.2.tgz
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/mongodb-replicaset-3.17.2.tgz
     version: 3.17.2
-generated: "2023-06-19T15:01:31.8495301+03:00"
+  - apiVersion: v1
+    appVersion: "3.6"
+    created: "2023-06-19T15:25:23.3088148+03:00"
+    description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
+      documents with dynamic schemas, simplifying the integration of data in content-driven
+      applications.
+    digest: e40d4b600e87de42e37ee64d4b7dd9070683a1c849de6df9b3696ae3fc409484
+    home: https://github.com/mongodb/mongo
+    icon: https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg
+    name: mongodb-replicaset
+    sources:
+    - https://github.com/mongodb/mongo
+    - https://github.com/percona/mongodb_exporter
+    urls:
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/charts/mongodb-replicaset-3.17.2.tgz
+    version: 3.17.2
+generated: "2023-06-19T15:25:23.2845879+03:00"
