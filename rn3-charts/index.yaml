@@ -3,7 +3,7 @@ entries:
   consul:
   - apiVersion: v1
     appVersion: 1.5.3
-    created: "2023-06-19T12:38:04.1634626+03:00"
+    created: "2023-06-19T12:47:13.8355276+03:00"
     deprecated: true
     description: Highly available and distributed service discovery and key-value
       store designed with support for the modern data center to make distributed systems
@@ -20,12 +20,12 @@ entries:
   mongodb:
   - apiVersion: v1
     appVersion: 4.2.4
-    created: "2023-06-19T12:38:04.1650481+03:00"
+    created: "2023-06-19T12:47:13.8387215+03:00"
     deprecated: true
     description: DEPRECATED NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
       applications.
-    digest: 6bd11a7e2ee160caa0870bcb4de3bbcacf0be9777befd375f87d7a1121fd1480
+    digest: 617b84e8a3c3379f126f0337eca89147744b04fe49b35dc843eae902158dda6b
     home: https://mongodb.org
     icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
     keywords:
@@ -44,7 +44,7 @@ entries:
   mongodb-replicaset:
   - apiVersion: v1
     appVersion: "3.6"
-    created: "2023-06-19T12:38:04.1681498+03:00"
+    created: "2023-06-19T12:47:13.8464606+03:00"
     deprecated: true
     description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
@@ -59,4 +59,4 @@ entries:
     urls:
     - https://github.com/eea/rn3-helm/blob/sotav-dev/rn3-charts/mongodb-replicaset-3.17.2.tgz
     version: 3.17.2
-generated: "2023-06-19T12:38:04.1620626+03:00"
+generated: "2023-06-19T12:47:13.8276125+03:00"
