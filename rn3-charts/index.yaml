@@ -15,5 +15,4 @@ entries:
     urls:
     - https://github.com/eea/rn3-helm/tree/sotav-dev/rn3-charts/consul-3.9.6.tgz
     version: 3.9.6
-    
 generated: "2023-06-19T12:59:03.9644051+03:00"
