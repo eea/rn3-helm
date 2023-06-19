@@ -1,8 +1,6 @@
 apiVersion: v1
 entries:
   consul:
-  - apiVersion: v1
-    appVersion: 1.5.3
     created: "2023-06-19T12:31:32.5015614+03:00"
     deprecated: true
     description: Highly available and distributed service discovery and key-value
@@ -18,8 +16,6 @@ entries:
     - consul-3.9.6.tgz
     version: 3.9.6
   mongodb:
-  - apiVersion: v1
-    appVersion: 4.2.4
     created: "2023-06-19T12:31:32.5094352+03:00"
     deprecated: true
     description: DEPRECATED NoSQL document-oriented database that stores JSON-like
@@ -42,8 +38,6 @@ entries:
     - mongodb-7.8.10.tgz
     version: 7.8.10
   mongodb-replicaset:
-  - apiVersion: v1
-    appVersion: "3.6"
     created: "2023-06-19T12:31:32.5178624+03:00"
     deprecated: true
     description: DEPRECATED - NoSQL document-oriented database that stores JSON-like
