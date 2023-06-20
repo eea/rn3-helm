@@ -14,5 +14,40 @@ entries:
     urls:
     - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/consul-3.9.6.tgz
     version: 3.9.6
-
+  mongodb:
+  - apiVersion: v1
+    appVersion: 4.2.4
+    created: "2023-06-19T15:36:02.9235696+03:00"
+    description: DEPRECATED NoSQL document-oriented database that stores JSON-like  documents with dynamic schemas, simplifying the integration of data in content-driven applications.
+    digest: bf46434a0a6e3ae346c0aa686056fd89ca1c0b413c990f8596823ce8a496726e
+    home: https://mongodb.org
+    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
+    keywords:
+    - mongodb
+    - database
+    - nosql
+    - cluster
+    - replicaset
+    - replication
+    name: mongodb
+    sources:
+    - https://github.com/bitnami/bitnami-docker-mongodb
+    urls:
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/mongodb-7.8.10.tgz
+    version: 7.8.10
+  mongodb-replicaset:
+  - apiVersion: v1
+    appVersion: "3.6"
+    created: "2023-06-19T15:36:02.9256136+03:00"
+    description: DEPRECATED - NoSQL document-oriented database that stores JSON-like documents with dynamic schemas, simplifying the integration of data in content-driven applications.
+    digest: 35b67f310aaf67c5fbc8cd1255d54fab52d37963d6f956d52ac7d1f7470f7e53
+    home: https://github.com/mongodb/mongo
+    icon: https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg
+    name: mongodb-replicaset
+    sources:
+    - https://github.com/mongodb/mongo
+    - https://github.com/percona/mongodb_exporter
+    urls:
+    - https://github.com/eea/rn3-helm/blob/sotav-dev/charts/mongodb-replicaset-3.17.2.tgz
+    version: 3.17.2
 generated: "2023-06-19T15:36:02.9158766+03:00"
